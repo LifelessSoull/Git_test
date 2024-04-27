@@ -1,0 +1,26 @@
+[1mdiff --git a/ConsoleApplication1/.vs/ConsoleApplication1/FileContentIndex/c636bdfa-2f09-4abe-a2fb-986d1ea8475c.vsidx b/ConsoleApplication1/.vs/ConsoleApplication1/FileContentIndex/c636bdfa-2f09-4abe-a2fb-986d1ea8475c.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex 33e6c45..0000000[m
+Binary files a/ConsoleApplication1/.vs/ConsoleApplication1/FileContentIndex/c636bdfa-2f09-4abe-a2fb-986d1ea8475c.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo b/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo[m
+[1mindex 124a87e..f912a54 100644[m
+Binary files a/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo and b/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo differ
+[1mdiff --git a/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db b/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db[m
+[1mindex d114467..612f0dc 100644[m
+Binary files a/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db and b/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db differ
+[1mdiff --git a/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp b/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp[m
+[1mindex 4e9f30d..e2fb4f9 100644[m
+[1m--- a/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp[m
+[1m+++ b/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp[m
+[36m@@ -5,9 +5,9 @@[m
+ [m
+ int main()[m
+ {[m
+[31m-    std::cout << "Hello World!\n";[m
+[31m-    std::cout << "Hello";[m
+     std::cout << "Bye";[m
+[32m+[m[32m    std::cout << "Boihjkopoihyguгye";[m
+[32m+[m[32m    std::cout << "sdgsdgm";[m
+ }[m
+ [m
+ // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"[m
